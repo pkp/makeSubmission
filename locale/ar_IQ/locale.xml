@@ -12,7 +12,7 @@
   -->
 
 <locale name="ar_IQ" full_name="العربية">
-	<message key="plugins.block.makeSubmission.displayName">كتلة "إنشاء طلب نشر"</message>
-	<message key="plugins.block.makeSubmission.description">هذه الإضافة تقدم كتلة على الشريط الجانبي فيها رابط "إنشاء طلب نشر".</message>
-	<message key="plugins.block.makeSubmission.linkLabel">إنشاء طلب نشر</message>
+	<message key="plugins.block.makeSubmission.displayName">كتلة "إنشاء طلب التقديم"</message>
+	<message key="plugins.block.makeSubmission.description">هذه الإضافة تقدم كتلة على الشريط الجانبي فيها رابط "إنشاء طلب التقديم".</message>
+	<message key="plugins.block.makeSubmission.linkLabel">إنشاء طلب التقديم</message>
 </locale>
