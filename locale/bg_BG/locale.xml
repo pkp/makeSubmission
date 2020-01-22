@@ -12,7 +12,7 @@
   -->
 
 <locale name="en_US" full_name="U.S. English">
-	<message key="plugins.block.makeSubmission.displayName">"Make a Submission" Block</message>
-	<message key="plugins.block.makeSubmission.description">This plugin provides a sidebar block with a "Make a Submission" link.</message>
-	<message key="plugins.block.makeSubmission.linkLabel">Make a Submission</message>
+        <message key="plugins.block.makeSubmission.displayName">Блок "Предлагане на статия"</message>
+        <message key="plugins.block.makeSubmission.description">Тази добавка осигурява блок за страничната лента с линк "Предлагане на статия".</message>
+        <message key="plugins.block.makeSubmission.linkLabel">Предлагане на статия</message>
 </locale>
