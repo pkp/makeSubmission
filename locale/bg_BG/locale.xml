@@ -11,7 +11,7 @@
   * Localization strings.
   -->
 
-<locale name="en_US" full_name="U.S. English">
+<locale name="bg_BG" full_name="Български">
         <message key="plugins.block.makeSubmission.displayName">Блок "Предлагане на статия"</message>
         <message key="plugins.block.makeSubmission.description">Тази добавка осигурява блок за страничната лента с линк "Предлагане на статия".</message>
         <message key="plugins.block.makeSubmission.linkLabel">Предлагане на статия</message>
