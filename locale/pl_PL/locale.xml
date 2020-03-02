@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the pl_PL (Język polski) locale.
+  -->
+  
+<locale name="pl_PL" full_name="Język polski">
+	<message key="plugins.block.makeSubmission.displayName">Wtyczka "Zgłoś artykuł"</message>
+	<message key="plugins.block.makeSubmission.description">Wtyczka umożliwia wyświetlenie przycisku z bezpośrednim linkiem do procedury zgloszenia manuskryptu, umieszczonego w bocznej kolumnie szablonu z napisem "Zgłoś artykuł".</message>
+	<message key="plugins.block.makeSubmission.linkLabel">Zgłoś artykuł</message>
+</locale>
