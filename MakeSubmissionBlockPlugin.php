@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @file plugins/blocks/makeSubmission/MakeSubmissionBlockPlugin.inc.php
+ * @file plugins/blocks/makeSubmission/MakeSubmissionBlockPlugin.php
  *
  * Copyright (c) 2014-2020 Simon Fraser University
  * Copyright (c) 2003-2020 John Willinsky
