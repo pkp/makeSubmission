@@ -1,7 +1,7 @@
 # "P." <sfu.styling862@passmail.net>, 2025.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-21 20:53+0000\n"
+"PO-Revision-Date: 2025-07-27 21:20+0000\n"
 "Last-Translator: \"P.\" <sfu.styling862@passmail.net>\n"
 "Language-Team: Polish <http://translate.pkp.sfu.ca/projects/plugins/"
 "makeSubmission/pl/>\n"
@@ -15,3 +15,9 @@ msgstr ""
 
 msgid "plugins.block.makeSubmission.linkLabel"
 msgstr "Prześlij pracę"
+
+msgid "plugins.block.makeSubmission.description"
+msgstr "Wtyczka udostępnia blok boczny z linkiem \"Prześlij pracę\"."
+
+msgid "plugins.block.makeSubmission.displayName"
+msgstr "Blok \"Prześlij pracę\""
