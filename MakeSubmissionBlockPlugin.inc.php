@@ -13,9 +13,7 @@
  * @brief Class for the "Make a Submission" block plugin
  */
 
-
-
-import('lib.pkp.classes.plugins.BlockPlugin');
+use PKP\plugins\BlockPlugin;
 
 class MakeSubmissionBlockPlugin extends BlockPlugin
 {
